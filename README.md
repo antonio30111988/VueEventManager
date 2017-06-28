@@ -1,6 +1,6 @@
 # turnout
 
-> Vue JS Event system with Login Sign Up included..
+> Vue JS Event system with Login Sign Up included. Crud Features are added and data are fetched from cloud Firebase setup databse
 
 ## Build Setup
 
