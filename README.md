@@ -11,6 +11,9 @@ For fast usage, follow this guide on your CLI after $:
 3. $ npm install
 4. $ npm run dev 
 
+For production:
+5. $# npm run build
+
 -started server on port 8080.
 
 Access App on: http://localhost:8080/ .
