@@ -1,16 +1,16 @@
 <template>
-	<div class="">
+	<div class="col-md-6">
 		<h3>Login</h3>
 		<div class="form-group">
 			<input 
 				type="text"
-				paceholder="email" 
+				placeholder="email" 
 				class="form-control"
 				v-model="email"
 			/>
 			<input 
 				type="password"
-				paceholder="Password" 
+				placeholder="Password" 
 				class="form-control"
 				v-model="password"
 			/>
