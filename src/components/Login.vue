@@ -1,5 +1,5 @@
 <template>
-	<div class="col-md-6">
+	<div class="form-inline">
 		<h3>Login</h3>
 		<div class="form-group">
 			<input 
