@@ -38,6 +38,7 @@ import {firebaseApp} from '../firebaseApp'
 			}
 		},
 		methods:{
+			//login method, cazch if have errors and dsiplayed in template
 			login(){ 
 				firebaseApp.auth().signInWithEmailAndPassword(this.email,this.password)
 				.catch(error=>{

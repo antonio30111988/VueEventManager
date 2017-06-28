@@ -1,4 +1,5 @@
 <template>
+  <!--Add new event form-->
   <div class="">
     <h4>Add Event <input type="checkbox" v-model="showForm"></h4>
     <!-- show form if set to true-->

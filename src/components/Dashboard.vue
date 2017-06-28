@@ -1,4 +1,5 @@
 <template>
+	<!-- Main app page -->
 	<div>
 	  <h3>Events Manager</h3>
 	  <button class="btn btn-danger btn-sm signout-btn" @click="signOut">Sign Out</button>
@@ -6,6 +7,7 @@
 	  <AddEvent />
 	  <hr>
 	  <div class="col-md-12">
+	  	<!-- lising events in v-for loop-->
 	    <EventItem
 	      v-for="(event_item, index) in this.$store.state.events"
 	      :event="event_item"
