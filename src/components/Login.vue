@@ -17,6 +17,8 @@
 			<button class="btn btn-primary" @click="login">Login</button>			
 		</div>
 		<br>
+		<router-link to="/signup">Not a user? Sign up</router-link> 
+		<br>
 		<p>{{error.message}}</p>
 		<br>
 	</div>
