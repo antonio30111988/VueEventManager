@@ -15,5 +15,10 @@ For fast usage, follow this guide on your CLI after $:
 
 Access App on: http://localhost:8080/ .
 
-Thanks for your time !
+Firebase user for testing login:
+
+Username: test@test.com
+Password:testing2017
+
+Thanks for your time ! 
 
